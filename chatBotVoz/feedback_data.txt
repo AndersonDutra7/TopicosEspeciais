@@ -1,1 +1,15 @@
 
+None | Um hamburguer custa $20,00
+tchau | O hamburguer custa R$20,00
+None | O hamburguer custa R$20,00
+custa um hambúrguer | O hamburguer custa R$20,00
+Quanto custa um hambúrguer | O hamburguer custa R$20,00
+Quanto custa um hambúrguer | O hamburguer custa R$20,00
+Quanto custa um hambúrguer | O hamburguer custa R$20,00
+Quanto custa um dog | O dog custa R$15,00
+Quanto custa um dog | O dog custa R$15,00
+custa um dog | O dog custa R$15,00
+Quanto custa um dog | O dog custa R$15,00
+Muito obrigado | Disponha, tenha uma ótima noite.
+Obrigado e boa noite | Disponha, tenha uma ótima noite.
+None | Disponha, tenha uma ótima noite.
