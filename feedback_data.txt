@@ -1,43 +1,39 @@
-Quanto custa um hambï¿½rguer | O hamburguer custa R$20,00
-Quanto custa um dog | O dog custa R$15,00
-Quanto custa uma coca | A coca custa R$8,00
-Qual o valor total  | O valor total Ã© R$43,00
-Vou querer | Ook, o valor total Ã© R$43,00 \n Obrigado e boa noite!
-Muito obrigado | Disponha, tenha uma ï¿½tima noite.
-Obrigado e boa noite | Disponha, tenha uma ï¿½tima noite.
-Ola | Bem vindo a Hamburgueria MeuBot, como posso ajudar?
+Quanto custa um hamburguer? | O hamburguer custa $20,00
+Quanto custa um Dog? | Um dog custa $15,00
+Quanto custa uma coca? | Uma coca custa $8,00
+Ola | Olá, boa noite! Bem vindo a Hamburgueria ChatBot, em que posso ajudar?
+Olá | Olá, como posso ajudar?
+Olá | Bem vindo á Hamburgueria MeuBot, em que posso ajudar?
+oLA | Boa noite! Bem vindo a Hamburgueria MeuBot, como posso ajudar?
+Ook, quero um hamburguer, um dog e uma coca, quanto deu?  | O valor final fica $43,00
 Oi | Bem vindo a Hamburgueria MeuBot, como posso ajudar?
-OlÃ¡ | Bem vindo a Hamburgueria MeuBot, como posso ajudar?Oi | Bem vindo a Hamburgueria MeuBot, como posso ajudar?
-Oi | Bem vindo a Hamburgueria MeuBot, como posso ajudar?
-Oi | Bem vindo a Hamburgueria MeuBot, como posso ajudar?
+Opa | Bem vindo a Hamburgueria MeuBot, como posso ajudar?
 Oi | Bem vindo a Hamburgueria MeuBot, como posso ajudar?
 Oi | Bem vindo a Hamburgueria MeuBot, como posso ajudar?
 Oi | Bem vindo a Hamburgueria MeuBot, como posso ajudar?
 Oi | Bem vindo a Hamburgueria MeuBot, como posso ajudar?
-Oi | Bem vindo a Hamburgueria MeuBot, como posso ajudar?
-Ola | 
-Oi | Bem vindo a Hamburgueria MeuBot, como posso ajudar?
-Oi | Bem vindo a Hamburgueria MeuBot, como posso ajudar?
-Ola | 
-Olá | Bem vindo a Hamburgueria MeuBot, como posso ajudar?
-Olá | Bem vindo a Hamburgueria MeuBot, como posso ajudar?
-Olá | Bem vindo a Hamburgueria MeuBot, como posso ajudar?
 Olá | Bem vindo a Hamburgueria MeuBot, como posso ajudar?
 Oi | Bem vindo a Hamburgueria MeuBot, como posso ajudar?
-Ola | 
-Ola | 
 Oi | Bem vindo a Hamburgueria MeuBot, como posso ajudar?
-Quanto custa uma coca? | 
-Quanto custa um dog? | 
-Quanto custa um hamburguer? | 
-Ola | 
-Oi | Bem vindo a Hamburgueria MeuBot, como posso ajudar?
-Ola | 
+Olá | Bem vindo a Hamburgueria MeuBot, como posso ajudar?
 Oi | Bem vindo a Hamburgueria MeuBot, como posso ajudar?
 Oi | Bem vindo a Hamburgueria MeuBot, como posso ajudar?
-Não | 
+Olá | Bem vindo a Hamburgueria MeuBot, como posso ajudar?
+Oi | Bem vindo a Hamburgueria MeuBot, como posso ajudar?
+Oi | Bem vindo a Hamburgueria MeuBot, como posso ajudar?
+Olá | Bem vindo a Hamburgueria MeuBot, como posso ajudar?
+Oi | Bem vindo a Hamburgueria MeuBot, como posso ajudar?
+Olá | Bem vindo a Hamburgueria MeuBot, como posso ajudar?
+Oi | Bem vindo a Hamburgueria MeuBot, como posso ajudar?
+Olá | Bem vindo a Hamburgueria MeuBot, como posso ajudar?
+Oi | Bem vindo a Hamburgueria MeuBot, como posso ajudar?
+Olá | Bem vindo a Hamburgueria MeuBot, como posso ajudar?
+Olá | Bem vindo a Hamburgueria MeuBot, como posso ajudar?
+Ola | 
+Oi | Bem vindo a Hamburgueria MeuBot, como posso ajudar?
+Oi | Bem vindo a Hamburgueria MeuBot, como posso ajudar?
+Oi | Bem vindo a Hamburgueria MeuBot, como posso ajudar?
 Oi | Bem vindo a Hamburgueria MeuBot, como posso ajudar?
 Ola | 
-oi | 
-oi | Bem vindo a Hamburgueria MeuBot, como posso ajudar?
+Oi | Bem vindo a Hamburgueria MeuBot, como posso ajudar?
 Ola | 
