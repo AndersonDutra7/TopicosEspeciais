@@ -41,3 +41,19 @@ Ola |
 oi | 
 oi | Bem vindo a Hamburgueria MeuBot, como posso ajudar?
 Ola | 
+Oi | Bem vindo a Hamburgueria MeuBot, como posso ajudar?
+Oi | Bem vindo a Hamburgueria MeuBot, como posso ajudar?
+Ola | 
+Olá | Bem vindo a Hamburgueria MeuBot, como posso ajudar?
+Olá | Bem vindo a Hamburgueria MeuBot, como posso ajudar?
+Oi | Bem vindo a Hamburgueria MeuBot, como posso ajudar?
+Ola | 
+Quanto custa uma coca? | 
+Quanto cust aum dog? | 
+Quanto custa um hamburguer? | 
+Vou querer os 3 | OOk, valor total fica $43,00
+Vou querer | 
+Obrigado | 
+Oi | Bem vindo a Hamburgueria MeuBot, como posso ajudar?
+Oi | Bem vindo a Hamburgueria MeuBot, como posso ajudar?
+Vou querer | O valor total é R$43,00
