@@ -1,0 +1,268 @@
+Pergunta: me fale sobre fotossintese
+Resposta Correta:     "A fotossíntese é o processo pelo qual as plantas verdes e alguns outros organismos usam a luz solar para sintetizar alimentos a partir de dióxido de carbono e água.",
+Feedback do Usuário: não
+
+Pergunta: O que é fotossintese
+Resposta Correta:     "A fotossíntese é o processo pelo qual as plantas verdes e alguns outros organismos usam a luz solar para sintetizar alimentos a partir de dióxido de carbono e água.",
+Feedback do Usuário: não
+
+Pergunta: Me fale sobre fotossintese
+Resposta Correta: "A fotossíntese é o processo pelo qual as plantas verdes e alguns outros organismos usam a luz solar para sintetizar alimentos a partir de dióxido de carbono e água.",
+Feedback do Usuário: sim
+
+Pergunta: O que é fotossintese
+Resposta Correta: "A fotossíntese é o processo pelo qual as plantas verdes e alguns outros organismos usam a luz solar para sintetizar alimentos a partir de dióxido de carbono e água.",
+Feedback do Usuário: sim
+
+Pergunta: Ja ouviu falar sobre fotosintese ?
+Resposta Correta:     "A fotossíntese é o processo pelo qual as plantas verdes e alguns outros organismos usam a luz solar para sintetizar alimentos a partir de dióxido de carbono e água.",
+Feedback do Usuário: não
+
+Pergunta: ja ouviu falar sobre fotosintese ?
+Resposta Correta: "A fotossíntese é o processo pelo qual as plantas verdes e alguns outros organismos usam a luz solar para sintetizar alimentos a partir de dióxido de carbono e água.",
+Feedback do Usuário: sim
+
+Pergunta: o que é fotosintese ?
+Resposta Correta: A fotossíntese é o processo pelo qual as plantas verdes e alguns outros organismos usam a luz solar para sintetizar alimentos a partir de dióxido de carbono e água.
+Feedback do Usuário: não
+
+Pergunta: O que é fotosintese ?
+Resposta Correta: A fotossíntese é o processo pelo qual as plantas verdes e alguns outros organismos usam a luz solar para sintetizar alimentos a partir de dióxido de carbono e água.
+Feedback do Usuário: não
+
+Pergunta: O que é fotossintese ?
+Resposta Correta: "A fotossíntese é o processo pelo qual as plantas verdes e alguns outros organismos usam a luz solar para sintetizar alimentos a partir de dióxido de carbono e água.",
+Feedback do Usuário: sim
+
+Pergunta: O que é fotosintese ?
+Resposta Correta: "A fotossíntese é o processo pelo qual as plantas verdes e alguns outros organismos usam a luz solar para sintetizar alimentos a partir de dióxido de carbono e água.",
+Feedback do Usuário: sim
+
+Pergunta: Me fale sobre fotosintese
+Resposta Correta: A fotossíntese é o processo pelo qual as plantas verdes e alguns outros organismos usam a luz solar para sintetizar alimentos a partir de dióxido de carbono e água.
+Feedback do Usuário: sim
+
+Pergunta: Ja ouviu falar sobre fotosintese ?
+Resposta Correta: "A fotossíntese é o processo pelo qual as plantas verdes e alguns outros organismos usam a luz solar para sintetizar alimentos a partir de dióxido de carbono e água.",
+Feedback do Usuário: sim
+
+Pergunta: O que é a teoria da evolução ?
+Resposta Correta: A teoria da evolução é um conjunto de ideias científicas que explicam como as espécies de organismos mudam ao longo do tempo através do processo de seleção natural.
+Feedback do Usuário: sim
+
+Pergunta: me fale sobre a teoria da evolução
+Resposta Correta: A teoria da evolução é um conjunto de ideias científicas que explicam como as espécies de organismos mudam ao longo do tempo através do processo de seleção natural.
+Feedback do Usuário: sim
+
+Pergunta: ja ouviu falar em teoria da evolução ?
+Resposta Correta: A teoria da evolução é um conjunto de ideias científicas que explicam como as espécies de organismos mudam ao longo do tempo através do processo de seleção natural.
+Feedback do Usuário: não
+
+Pergunta: O que é teoria da evolução ?
+Resposta Correta: A teoria da evolução é um conjunto de ideias científicas que explicam como as espécies de organismos mudam ao longo do tempo através do processo de seleção natural.
+Feedback do Usuário: sim
+
+Pergunta: me fale sobre teoria da evolução
+Resposta Correta: A teoria da evolução é um conjunto de ideias científicas que explicam como as espécies de organismos mudam ao longo do tempo através do processo de seleção natural.
+Feedback do Usuário: sim
+
+Pergunta: ja ouviu falar sobre teoria da evolução ?
+Resposta Correta: A teoria da evolução é um conjunto de ideias científicas que explicam como as espécies de organismos mudam ao longo do tempo através do processo de seleção natural.
+Feedback do Usuário: não
+
+Pergunta: ja ouviu faalr sobre teoria da evoliucao ?
+Resposta Correta: A teoria da evolução é um conjunto de ideias científicas que explicam como as espécies de organismos mudam ao longo do tempo através do processo de seleção natural.
+Feedback do Usuário: não
+
+Pergunta: ja ouviu falar sobre teoria da evolução ?
+Resposta Correta: A teoria da evolução é um conjunto de ideias científicas que explicam como as espécies de organismos mudam ao longo do tempo através do processo de seleção natural.
+Feedback do Usuário: sim
+
+Pergunta: O que é teoria da evolução ?
+Resposta Correta: A teoria da evolução é um conjunto de ideias científicas que explicam como as espécies de organismos mudam ao longo do tempo através do processo de seleção natural.
+Feedback do Usuário: não
+
+Pergunta: me fale sobre teoria da evolução
+Resposta Correta: A teoria da evolução é um conjunto de ideias científicas que explicam como as espécies de organismos mudam ao longo do tempo através do processo de seleção natural.
+Feedback do Usuário: não
+
+Pergunta: o que é teoria da evolução
+Resposta Correta: A teoria da evolução é um conjunto de ideias científicas que explicam como as espécies de organismos mudam ao longo do tempo através do processo de seleção natural.
+Feedback do Usuário: sim
+
+Pergunta: me fale sobre teoria da evolucao
+Resposta Correta: A teoria da evolução é um conjunto de ideias científicas que explicam como as espécies de organismos mudam ao longo do tempo através do processo de seleção natural.
+Feedback do Usuário: sim
+
+Pergunta: ja ouviu falar sobre teoria da evolucao ?
+Resposta Correta: A teoria da evolução é um conjunto de ideias científicas que explicam como as espécies de organismos mudam ao longo do tempo através do processo de seleção natural.
+Feedback do Usuário: sim
+
+Pergunta: O que é fotosintese ?
+Resposta Correta: "A fotossíntese é o processo pelo qual as plantas verdes e alguns outros organismos usam a luz solar para sintetizar alimentos a partir de dióxido de carbono e água.",
+Feedback do Usuário: sim
+
+Pergunta: ja ouviu falar sobre fotosintese ?
+Resposta Correta: "A fotossíntese é o processo pelo qual as plantas verdes e alguns outros organismos usam a luz solar para sintetizar alimentos a partir de dióxido de carbono e água.",
+Feedback do Usuário: sim
+
+Pergunta: me fale sobre fotosintese
+Resposta Correta: A fotossíntese é o processo pelo qual as plantas verdes e alguns outros organismos usam a luz solar para sintetizar alimentos a partir de dióxido de carbono e água.
+Feedback do Usuário: não
+
+Pergunta: o que é fotosintese
+Resposta Correta: "A fotossíntese é o processo pelo qual as plantas verdes e alguns outros organismos usam a luz solar para sintetizar alimentos a partir de dióxido de carbono e água.",
+Feedback do Usuário: sim
+
+Pergunta: me fale sobre fotosintese
+Resposta Correta: A fotossíntese é o processo pelo qual as plantas verdes e alguns outros organismos usam a luz solar para sintetizar alimentos a partir de dióxido de carbono e água.
+Feedback do Usuário: sim
+
+Pergunta: ja ouviu falar na fotosintese ?
+Resposta Correta: A fotossíntese é o processo pelo qual as plantas verdes e alguns outros organismos usam a luz solar para sintetizar alimentos a partir de dióxido de carbono e água.
+Feedback do Usuário: não
+
+Pergunta: O que é fotosintese ?
+Resposta Correta: "A fotossíntese é o processo pelo qual as plantas verdes e alguns outros organismos usam a luz solar para sintetizar alimentos a partir de dióxido de carbono e água.",
+Feedback do Usuário: sim
+
+Pergunta: ja ouviu falar sobre fotosintese
+Resposta Correta: "A fotossíntese é o processo pelo qual as plantas verdes e alguns outros organismos usam a luz solar para sintetizar alimentos a partir de dióxido de carbono e água.",
+Feedback do Usuário: sim
+
+Pergunta: me fale sobre fotosintese
+Resposta Correta: A fotossíntese é o processo pelo qual as plantas verdes e alguns outros organismos usam a luz solar para sintetizar alimentos a partir de dióxido de carbono e água.
+Feedback do Usuário: sim
+
+Pergunta: ja ouviu falar em teoria da evolucao ?
+Resposta Correta: A teoria da evolução é um conjunto de ideias científicas que explicam como as espécies de organismos mudam ao longo do tempo através do processo de seleção natural.
+Feedback do Usuário: sim
+
+Pergunta: o que é teoria da evolucao ?
+Resposta Correta: A teoria da evolução é um conjunto de ideias científicas que explicam como as espécies de organismos mudam ao longo do tempo através do processo de seleção natural.
+Feedback do Usuário: sim
+
+Pergunta: me fale sobre teoria da evolucao
+Resposta Correta: A teoria da evolução é um conjunto de ideias científicas que explicam como as espécies de organismos mudam ao longo do tempo através do processo de seleção natural.
+Feedback do Usuário: não
+
+Pergunta: Qual é a estrutura do átomo ?
+Resposta Correta: Um átomo é composto por um núcleo central, composto por prótons e nêutrons, e uma nuvem de elétrons que orbitam ao redor do núcleo.
+Feedback do Usuário: sim
+
+Pergunta: como é a estrutura de um atomo ?
+Resposta Correta: Qual é a estrutura do átomo? Um átomo é composto por um núcleo central, composto por prótons e nêutrons, e uma nuvem de elétrons que orbitam ao redor do núcleo.
+Feedback do Usuário: não
+
+Pergunta: como é a estrutura de um atomo
+Resposta Correta: Um átomo é composto por um núcleo central, composto por prótons e nêutrons, e uma nuvem de elétrons que orbitam ao redor do núcleo.
+Feedback do Usuário: não
+
+Pergunta: como é a estrutura de um atomo ?
+Resposta Correta: Um átomo é composto por um núcleo central, composto por prótons e nêutrons, e uma nuvem de elétrons que orbitam ao redor do núcleo.
+Feedback do Usuário: não
+
+Pergunta: como é a estrutura de um atomo
+Resposta Correta: Um átomo é composto por um núcleo central, composto por prótons e nêutrons, e uma nuvem de elétrons que orbitam ao redor do núcleo.
+Feedback do Usuário: não
+
+Pergunta: como é composto um atomo ?
+Resposta Correta: Um átomo é composto por um núcleo central, composto por prótons e nêutrons, e uma nuvem de elétrons que orbitam ao redor do núcleo.
+Feedback do Usuário: sim
+
+Pergunta: qual a estrutura do atomo
+Resposta Correta: Um átomo é composto por um núcleo central, composto por prótons e nêutrons, e uma nuvem de elétrons que orbitam ao redor do núcleo.
+Feedback do Usuário: não
+
+Pergunta: como é a estrutura do atomo
+Resposta Correta: Um átomo é composto por um núcleo central, composto por prótons e nêutrons, e uma nuvem de elétrons que orbitam ao redor do núcleo.
+Feedback do Usuário: sim
+
+Pergunta: qual a estrutura do atomo
+Resposta Correta: Um átomo é composto por um núcleo central, composto por prótons e nêutrons, e uma nuvem de elétrons que orbitam ao redor do núcleo.
+Feedback do Usuário: sim
+
+Pergunta: me fale sobre atomo
+Resposta Correta: Um átomo é composto por um núcleo central, composto por prótons e nêutrons, e uma nuvem de elétrons que orbitam ao redor do núcleo.
+Feedback do Usuário: não
+
+Pergunta: o que é atomo
+Resposta Correta: Um átomo é composto por um núcleo central, composto por prótons e nêutrons, e uma nuvem de elétrons que orbitam ao redor do núcleo.
+Feedback do Usuário: não
+
+Pergunta: do que é composto o atomo
+Resposta Correta: Um átomo é composto por um núcleo central, composto por prótons e nêutrons, e uma nuvem de elétrons que orbitam ao redor do núcleo.
+Feedback do Usuário: não
+
+Pergunta: do que é composto o atomo ?
+Resposta Correta: Um átomo é composto por um núcleo central, composto por prótons e nêutrons, e uma nuvem de elétrons que orbitam ao redor do núcleo.
+Feedback do Usuário: sim
+
+Pergunta: me fale sobre fotosintese
+Resposta Correta: A fotossíntese é o processo pelo qual as plantas verdes e alguns outros organismos usam a luz solar para sintetizar alimentos a partir de dióxido de carbono e água.
+Feedback do Usuário: sim
+
+Pergunta: o que é fotosintese
+Resposta Correta: "A fotossíntese é o processo pelo qual as plantas verdes e alguns outros organismos usam a luz solar para sintetizar alimentos a partir de dióxido de carbono e água.",
+Feedback do Usuário: sim
+
+Pergunta: ja ouviu faalr sobre fotosintese ?
+Resposta Correta: "A fotossíntese é o processo pelo qual as plantas verdes e alguns outros organismos usam a luz solar para sintetizar alimentos a partir de dióxido de carbono e água.",
+Feedback do Usuário: sim
+
+Pergunta: o que é teoria da evolucao ?
+Resposta Correta: A teoria da evolução é um conjunto de ideias científicas que explicam como as espécies de organismos mudam ao longo do tempo através do processo de seleção natural.
+Feedback do Usuário: não
+
+Pergunta: o que é a teoria da evolucao
+Resposta Correta: A teoria da evolução é um conjunto de ideias científicas que explicam como as espécies de organismos mudam ao longo do tempo através do processo de seleção natural.
+Feedback do Usuário: sim
+
+Pergunta: me fale sobre teoria da evolucao
+Resposta Correta: A teoria da evolução é um conjunto de ideias científicas que explicam como as espécies de organismos mudam ao longo do tempo através do processo de seleção natural.
+Feedback do Usuário: sim
+
+Pergunta: ja ouviu faalr sobre teoria da evolucao
+Resposta Correta: A teoria da evolução é um conjunto de ideias científicas que explicam como as espécies de organismos mudam ao longo do tempo através do processo de seleção natural.
+Feedback do Usuário: sim
+
+Pergunta: e sobre fotosintese ?
+Resposta Correta: A fotossíntese é o processo pelo qual as plantas verdes e alguns outros organismos usam a luz solar para sintetizar alimentos a partir de dióxido de carbono e água.
+Feedback do Usuário: sim
+
+Pergunta: o que é fotosintese
+Resposta Correta: "A fotossíntese é o processo pelo qual as plantas verdes e alguns outros organismos usam a luz solar para sintetizar alimentos a partir de dióxido de carbono e água.",
+Feedback do Usuário: sim
+
+Pergunta: me fale sobre fotosintese
+Resposta Correta: A fotossíntese é o processo pelo qual as plantas verdes e alguns outros organismos usam a luz solar para sintetizar alimentos a partir de dióxido de carbono e água.
+Feedback do Usuário: sim
+
+Pergunta: qual a estrutura do atomo
+Resposta Correta: Um átomo é composto por um núcleo central, composto por prótons e nêutrons, e uma nuvem de elétrons que orbitam ao redor do núcleo.
+Feedback do Usuário: sim
+
+Pergunta: como é composto o atomo
+Resposta Correta: Um átomo é composto por um núcleo central, composto por prótons e nêutrons, e uma nuvem de elétrons que orbitam ao redor do núcleo.
+Feedback do Usuário: não
+
+Pergunta: como é composto o atomo
+Resposta Correta: Um átomo é composto por um núcleo central, composto por prótons e nêutrons, e uma nuvem de elétrons que orbitam ao redor do núcleo.
+Feedback do Usuário: sim
+
+Pergunta: me fale sobre o atomo
+Resposta Correta: Um átomo é composto por um núcleo central, composto por prótons e nêutrons, e uma nuvem de elétrons que orbitam ao redor do núcleo.
+Feedback do Usuário: sim
+
+Pergunta: sabes do que é compsoto um atomo ?
+Resposta Correta: Um átomo é composto por um núcleo central, composto por prótons e nêutrons, e uma nuvem de elétrons que orbitam ao redor do núcleo.
+Feedback do Usuário: não
+
+Pergunta: sabes como é composto um atomo ?
+Resposta Correta: Um átomo é composto por um núcleo central, composto por prótons e nêutrons, e uma nuvem de elétrons que orbitam ao redor do núcleo.
+Feedback do Usuário: não
+
+Pergunta: sabes como é compsto um atomo ?
+Resposta Correta: Um átomo é composto por um núcleo central, composto por prótons e nêutrons, e uma nuvem de elétrons que orbitam ao redor do núcleo.
+Feedback do Usuário: sim
+

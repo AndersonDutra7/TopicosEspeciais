@@ -1,5 +1,26 @@
 from chatterbot import ChatBot
 from chatterbot.trainers import ListTrainer
+import nltk
+from nltk.corpus import wordnet
+import os
+
+# Baixar os pacotes necessários do nltk
+nltk.download('punkt')
+nltk.download('wordnet')
+
+# Funções de pré-processamento
+def preprocess(text):
+    tokens = nltk.word_tokenize(text)
+    lemmatizer = nltk.WordNetLemmatizer()
+    lemmatized_tokens = [lemmatizer.lemmatize(token) for token in tokens]
+    return ' '.join(lemmatized_tokens)
+
+def get_synonyms(word):
+    synonyms = set()
+    for syn in wordnet.synsets(word):
+        for lemma in syn.lemmas():
+            synonyms.add(lemma.name())
+    return synonyms
 
 # Configuração do chatbot
 chatbot = ChatBot(
@@ -38,19 +59,29 @@ historia = [
     "Cleópatra foi a última rainha do Egito, conhecida por sua inteligência, beleza e influência política. Ela governou o Egito durante um período de grande tumulto e desafios para o país."
 ]
 
-# Treinamento do chatbot
+# Treinamento inicial do chatbot
 trainer.train(matematica)
 trainer.train(ciencias)
 trainer.train(historia)
+
+# Função para salvar feedback de respostas corretas
+def save_feedback(question, correct_answer, user_feedback):
+    feedback_file = "feedback.txt"
+    with open(feedback_file, 'a') as f:
+        f.write(f"Pergunta: {question}\n")
+        f.write(f"Resposta Correta: {correct_answer}\n")
+        f.write(f"Feedback do Usuário: {user_feedback}\n\n")
 
 # Saudação inicial
 print("Olá! Eu sou o Assistente de Estudos e ajudarei você com os estudos.")
 print("Escolha uma das disciplinas para conversarmos: \n  Matemática\n  Ciências\n  História")
 
 # Interação com o chatbot
+selected_discipline = None
 while True:
     try:
         user_input = input("Você: ")
+        user_input = preprocess(user_input)
         
         # Verifica se o usuário saudou o chatbot
         if user_input.lower() in ["oi", "olá", "bom dia", "boa tarde", "boa noite"]:
@@ -59,10 +90,25 @@ while True:
         
         # Verifica se o usuário deseja selecionar uma disciplina
         if user_input.lower() in ["matemática", "matematica", "ciências", "ciencias", "história", "historia"]:
-            print(f"Muito bem! Vamos conversar sobre {user_input.capitalize()}.")
+            selected_discipline = user_input.lower()
+            print(f"Muito bem! Vamos conversar sobre {selected_discipline.capitalize()}.")
             continue
         
-        response = chatbot.get_response(user_input)
-        print(f"Chatbot: {response}")
+        # Se uma disciplina foi selecionada, processa a pergunta
+        if selected_discipline:
+            response = chatbot.get_response(user_input)
+            print(f"Chatbot: {response}")
+            
+            # Solicita feedback do usuário
+            feedback = input("Essa resposta foi útil? (sim/não): ")
+            if feedback.lower() == "não":
+                correct_answer = input("Qual seria a resposta correta? ")
+                trainer.train([user_input, correct_answer])
+                save_feedback(user_input, correct_answer, feedback)
+                print("Obrigado pelo seu feedback! Aprendi a resposta correta.")
+            else:
+                save_feedback(user_input, response, feedback)
+        else:
+            print("Por favor, selecione uma disciplina primeiro.")
     except (KeyboardInterrupt, EOFError, SystemExit):
         break
